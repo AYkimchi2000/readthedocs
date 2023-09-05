@@ -8,6 +8,9 @@ and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
+editing this file is kinda fun
+
+	what does this mean/
 
 .. note::
 
